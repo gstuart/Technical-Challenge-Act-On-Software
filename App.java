@@ -24,7 +24,11 @@ public class App {
 		return permutatedInput;
   }
 
-  
+	public static String permutatedCharAdd(String string, char c, int lastCharInString) {
+		String first = string.substring(0, lastCharInString);
+		String last = string.substring(lastCharInString);
+		return first + c + last;
+	}
 
   // Front-end logic
   public static void main(String[] args) {
