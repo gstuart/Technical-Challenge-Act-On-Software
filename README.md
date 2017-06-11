@@ -1,4 +1,4 @@
-# TC-Act-On-Software
+# Technical-Challenge-Act-On-Software
  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 > Technical challenge for Junior Software Developer position at Act-On Software.
@@ -15,7 +15,7 @@ Technical challenge for me to demonstrate my
   - [Install](#install)
   - [Usage](#usage)
   - [Approach To challenge](#approach-to-challenge)
-  - [Reference](#references)
+  - [References](#references)
   - [Maintainer](#maintainer)
   - [Contribute](#contribute)
   - [License](#license)
