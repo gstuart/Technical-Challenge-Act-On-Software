@@ -12,7 +12,19 @@ public class App {
 			permutatedInput.add("");
 			return permutatedInput;
 		}
+
+    char firstChar = inputtedString.charAt(0);
+		String permutatedChar = inputtedString.substring(1);
+		Set<String> words = permutationOfString(permutatedChar);
+		for (String newString : words) {
+			for (int i = 0; i <= newString.length(); i++) {
+				permutatedInput.add(permutatedCharAdd(newString, firstChar, i));
+			}
+		}
+		return permutatedInput;
   }
+
+  
 
   // Front-end logic
   public static void main(String[] args) {
