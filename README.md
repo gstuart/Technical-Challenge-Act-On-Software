@@ -30,7 +30,7 @@ Please include a means of building and/or packaging your utility for distributio
 ## Install
 * Install [Java JRE (Runtime Environment)](https://www.java.com/en/) _**NOTE: link to installation is for OSX**_
 * Navigate to your desktop through the terminal and enter `git clone https://github.com/gstuart/Technical-Challenge-Act-On-Software.git`
-* Then enter into your terminal `cd techncial-challenge-act-on-software`
+* Then enter into your terminal `cd Technical-Challenge-Act-On-Software`
 * In the terminal enter `javac App.java`
 
 
